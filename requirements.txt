@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+pdfplumber
+pillow
+reportlab
+gtts

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Database
+*.db
+
+# Audio files
+*.mp3
+
+# PDFs / exports
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
